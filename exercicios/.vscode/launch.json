@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex_teste",
+            "request": "launch",
+            "mainClass": "Ex_teste",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "retornos.Main",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "area_do_quadrilatero.Main",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex9_Emprestimo",
+            "request": "launch",
+            "mainClass": "Ex9_Emprestimo",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex8_HoraDoDia",
+            "request": "launch",
+            "mainClass": "Ex8_HoraDoDia",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex7_Metodos",
+            "request": "launch",
+            "mainClass": "Ex7_Metodos",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "array.Ex4_ArrayMultidimensional",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "array.Ex3_NumerosAleatorios",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "array.Ex2_Consoantes",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "array.Ex1_OrdemInversa",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "Ex6_Fatorial",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "Ex5_Tabuada",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "Ex4_ParEImpar",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "Ex3_MaiorEMedia",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "Ex1_NomeEIdade",
+            "projectName": "exercicios_efb81ec5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Nota",
+            "request": "launch",
+            "mainClass": "Ex2_Nota",
+            "projectName": "exercicios_efb81ec5"
+        }
+    ]
+}
